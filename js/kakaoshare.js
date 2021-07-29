@@ -5,7 +5,7 @@ function setShare(){
   var resultAlt = resultImg.firstElementChild.alt;
   const shareTitle = '나에게 어울리는 브랜드 결과';
   const shareDes = infoList[resultAlt].name;
-  const shareImage = url + 'img/image-' + resultAlt + '.png';
+  const shareImage = url + 'img/image-' + resultAlt + '.PNG';
   const shareURL = url + 'page/result-' + resultAlt + '.html';
 
   Kakao.Link.sendDefault({
