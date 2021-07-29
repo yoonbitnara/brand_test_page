@@ -34,7 +34,7 @@
     color: #FEE500;
 }
 
-.goHome {
+.gohome {
     color: white;
     background-color: skyblue;
     font-size: 20px;
@@ -42,7 +42,7 @@
     border-radius: 20px;
 }
 
-.goHome:hover, .goHome:focus{
+.gohome:hover, .gohome:focus{
     background-color: white;
     color: skyblue;
 }
