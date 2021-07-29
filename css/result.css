@@ -6,10 +6,43 @@
     border-radius: 20px;
 }
 
+#shareResult{
+    background-color:white;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+}
+
 .resultDesc{
     font-size: 25px;
 }
 
 .resultname{
     font-size: 26px;
+}
+
+.kakao {
+    color: white;
+    background-color: #FEE500;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 20px;
+}
+
+.kakao:hover, .kakao:focus{
+    background-color: white;
+    color: #FEE500;
+}
+
+.goHome {
+    color: white;
+    background-color: skyblue;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 20px;
+}
+
+.goHome:hover, .goHome:focus{
+    background-color: white;
+    color: skyblue;
 }
