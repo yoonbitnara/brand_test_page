@@ -1,2 +1,5 @@
 # data file 무시
-branddata.js
+branddata.js*
+
+# OS file
+.DS_Store*
