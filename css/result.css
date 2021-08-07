@@ -46,3 +46,16 @@
     background-color: white;
     color: skyblue;
 }
+
+.gogit {
+    color: white;
+    background-color: red;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 20px;
+}
+
+.gogit:hover, .gogit:focus{
+    background-color: white;
+    color: red;
+}
