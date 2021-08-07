@@ -10,85 +10,90 @@ const qnaList = [
     {
       q: '나는 패션에 관심이 많다.',
       a: [
-        { answer: 'YES!', type: [3, 2, 5, 6] },
-        { answer: 'NO!', type: [0, 1, 4] },
+        { answer: '그렇다.', type: [3, 2, 5, 6] },
+        { answer: '아니다.', type: [0, 4] },
+        { answer: '그저그렇다.', type: [1] },
       ]
     },
     {
       q: '나는 트렌드에 민감한 편이다.',
       a: [
-        { answer: 'YES!', type: [2, 3, 4, 5, 6] },
-        { answer: 'NO!', type: [0, 1] },
+        { answer: '그렇다.', type: [2, 3, 4, 5, 6] },
+        { answer: '아니다.', type: [0] },
+        { answer: '그저그렇다.', type: [1] },
       ]
     },
     {
       q: '나는 무신사에서 주로 구입한다.',
       a: [
-        { answer: 'YES!', type: [4, 5] },
-        { answer: 'NO!', type: [0, 1, 2, 3, 6] },
+        { answer: '그렇다.', type: [4, 5] },
+        { answer: '아니다.', type: [0, 1, 2, 3, 6] },
       ]
     },
     {
       q: '베스트 브랜드를 이용한다.',
       a: [
-        { answer: 'YES!', type: [4] },
-        { answer: 'NO!', type: [0, 1, 2, 3, 5, 6] },
+        { answer: '그렇다.', type: [4, 2, 3, 5, 6] },
+        { answer: '아니다.', type: [0, 1] },
       ]
     },
     {
       q: '나는 계절이 바뀌면 옷을 산다.',
       a: [
-        { answer: 'YES!', type: [2, 3, 6] },
-        { answer: 'NO!', type: [0, 1, 4, 5] },
+        { answer: '그렇다.', type: [2, 3, 6] },
+        { answer: '아니다.', type: [0, 1, 4, 5] },
       ]
     },
     {
       q: '한번 살 때 좋은 옷을 산다.',
       a: [
-        { answer: 'YES!', type: [2, 3, 6] },
-        { answer: 'NO!', type: [0, 1, 4, 5] },
+        { answer: '그렇다.', type: [2, 3, 6] },
+        { answer: '아니다.', type: [0, 1, 4, 5] },
       ]
     },
     {
       q: '명품을 좋아한다. 혹은 명품을 구매 후 즐겨 입는 편이다.',
       a: [
-        { answer: 'YES!', type: [2, 3, 6] },
-        { answer: 'NO!', type: [0, 1, 4, 5] },
+        { answer: '그렇다.', type: [2, 3, 6] },
+        { answer: '아니다.', type: [0, 1, 4, 5] },
       ]
     },
     {
       q: '나만 아는 브랜드가 좋다.',
       a: [
-        { answer: 'YES!', type: [5] },
-        { answer: 'NO!', type: [0, 1, 2, 3, 4, 6] },
+        { answer: '그렇다.', type: [5] },
+        { answer: '아니다.', type: [2, 3, 4, 6] },
+        { answer: '브랜드는 신경안쓴다.', type: [0, 1] },
       ]
     },
     {
       q: '옷은 엄마가 사다 준다.',
       a: [
-        { answer: 'YES!', type: [0] },
-        { answer: 'NO!', type: [1, 2, 3, 4, 5, 6] },
+        { answer: '그렇다.', type: [0] },
+        { answer: '아니다.', type: [1, 2, 3, 4, 5, 6] },
       ]
     },
     {
       q: '유명한 브랜드를 좋아한다.',
       a: [
-        { answer: 'YES!', type: [0, 1] },
-        { answer: 'NO!', type: [2, 3, 4, 5, 6] },
+        { answer: '그렇다.', type: [2, 3, 4, 6] },
+        { answer: '아니다.', type: [5] },
+        { answer: '그저그렇다.', type: [0, 1] },
       ]
     },
     {
       q: '스트릿 무드가 좋다.',
       a: [
-        { answer: 'YES!', type: [1, 2] },
-        { answer: 'NO!', type: [0, 3, 4, 5, 6] },
+        { answer: '그렇다.', type: [2] },
+        { answer: '아니다.', type: [3, 4, 5, 6] },
+        { answer: '신경쓰지않는다.', type: [0, 1] },
       ]
     },
     {
       q: '트렌디한 의상이 좋다.',
       a: [
-        { answer: 'YES!', type: [3, 4, 5] },
-        { answer: 'NO!', type: [0, 1, 2, 6] },
+        { answer: '그렇다.', type: [3, 4, 5] },
+        { answer: '아니다.', type: [0, 1, 2, 6] },
       ]
     }
   ]
