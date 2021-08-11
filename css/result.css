@@ -11,6 +11,7 @@
     width: 80%;
     text-align: center;
     border-radius: 20px;
+    height: 400px;
 }
 
 .resultDesc{
@@ -58,4 +59,24 @@
 .gogit:hover, .gogit:focus{
     background-color: white;
     color: red;
+}
+
+#uniqlo {
+    width: 100px;
+    height: 100px;
+    margin-right: 4px;
+}
+
+#uniqlo:hover {
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+}
+
+#shop {
+    margin-top: 4px;
+}
+
+a:link {
+    color: white;
 }
