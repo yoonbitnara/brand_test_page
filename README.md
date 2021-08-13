@@ -16,7 +16,9 @@
 - CSS3
 - Javascript
 - Bootstrap
-- Netlify
+- 배포
+  - Netlify(배포)
+  - 가비아(도메인구매)
 <br>
 
 ## 업데이트
