@@ -16,8 +16,20 @@
 - CSS3
 - Javascript
 - Bootstrap
-- Netlify
+- 배포
+  - Netlify(배포)
+  - 가비아(도메인구매)
 <br>
+
+## 업데이트
+![KakaoTalk_20210812_014831212](https://user-images.githubusercontent.com/62235397/129093862-ab2f4805-8f99-47f4-83cd-7d8baa98ba4b.jpg)
+  고민중....
+- 디자인 변경(예정)
+- 추천받은 브랜드로 바로 이동(예정)
+- 질문 및 결과 데이터 계속해서 개선(예정)
+- 카카오 공유하기(완료)
+- 개발자 깃허브 소개(완료)
+
 
 ## 주소
 - https://www.brand-test.com/
